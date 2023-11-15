@@ -1,6 +1,4 @@
-[submodule "The_come_up"]
-	path = The_come_up
-	url = C:\\Users\\HP PAVILION 15\\Desktop\\The_come_up
 [submodule "Rain in Australia"]
 	path = Rain in Australia
-	url = C:\\Users\\HP PAVILION 15\\Desktop\\The_come_up\\Rain in Australia
+	url = https://github.com/Danielfasuba/Rain-in-Australia
+
