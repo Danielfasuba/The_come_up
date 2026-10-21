@@ -34,7 +34,7 @@ To assess the model's predictive capabilities, I conducted a thorough evaluation
 - **Cross-Validation:** Employing cross-validation techniques on the training set to ensure robustness and minimize overfitting.
 - **Test Set Evaluation:** Evaluating the model on a separate test dataset to validate its performance on unseen data.
 
-The results were highly satisfying, with the Support Vector Classifier achieving an impressive accuracy rate of 98.8 percent. This demonstrated the model's proficiency in distinguishing survivors from non-survivors among Titanic passengers.
+The results were highly satisfying, with the Support Vector Classifier achieving an impressive accuracy rate of .. percent. This demonstrated the model's proficiency in distinguishing survivors from non-survivors among Titanic passengers.
 
 ### Conclusion
 
